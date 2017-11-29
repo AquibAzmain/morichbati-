@@ -1,0 +1,44 @@
+
+.circle{
+-webkit-border-radius: 90px;
+-moz-border-radius: 90px;
+border-radius: 90px;
+text-align: center;
+}
+
+.blackblur{
+ background-color: #000000;
+background-image: url(../../Mimages/45-degree-fabric-dark.png);
+}
+
+.centerdiv{
+text-align:center;
+}
+
+
+
+
+.fontslabo{
+font-weight: 400;
+color : white;
+font-size: 24px;
+font-weight: bold;
+}
+.fontgrey{
+color : #95A5A6;
+}
+.fontgreysmall{
+color : #95A5A6;
+font-size : 13px;
+}
+
+.borderstyle{
+border-radius: 0px 0px 0px 0px;
+-moz-border-radius: 0px 0px 0px 0px;
+-webkit-border-radius: 0px 0px 0px 0px;
+border: 1px dashed #95A5A6;
+}
+
+.line{ 
+height:2px;width:100%;background-color:#f44b42; border:1px solid #f44b42;
+}

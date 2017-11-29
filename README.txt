@@ -1,0 +1,2 @@
+Morichbati is a simple web based enterprise resource planner that includes customer service management, human resource management and recommendation system.
+Technology: HTML, CSS, JavaScript, PHP, MySQL
